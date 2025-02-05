@@ -1,8 +1,0 @@
-scikit-learn
-catboost
-xgboost
-numpy
-seaborn
-matplotlib
-#-e.
-pandas
